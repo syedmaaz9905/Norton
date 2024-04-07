@@ -116,6 +116,11 @@ nav ul li .active {
     padding: 12px;
 }
 
+.whatsapp_link {
+    text-decoration: underline;
+    color: inherit;
+}
+
 @media screen and (max-width: 1250px) {
     nav {
         justify-content: center;
